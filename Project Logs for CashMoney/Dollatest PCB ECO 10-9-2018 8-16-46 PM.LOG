@@ -1,0 +1,12 @@
+Added Component: Designator=IC*(ESP8266 ESP-12-E)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3V3 Pin=IC*-1
+Added Pin To Net: NetName=NetIC*_3 Pin=IC*-3
+Added Pin To Net: NetName=+3V3 Pin=IC*-8
+Added Pin To Net: NetName=GND Pin=IC*-15
+Added Pin To Net: NetName=NetIC*_16 Pin=IC*-16
+Added Pin To Net: NetName=NetIC*_18 Pin=IC*-18
+Added Pin To Net: NetName=LED Pin=IC*-20
+Added Pin To Net: NetName=UART_RX Pin=IC*-21
+Added Pin To Net: NetName=UART_TX Pin=IC*-22
+Added Member To Class: ClassName=ESP8266 Member=Component IC* ESP8266 ESP-12-E

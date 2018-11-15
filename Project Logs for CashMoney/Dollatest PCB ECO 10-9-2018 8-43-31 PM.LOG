@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC*-1
+Removed Pin From Net: NetName=+3V3 Pin=SW1-2
+Added Component: Designator=R7(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RESC0603(1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=NetIC*_1 Pin=IC*-1
+Added Pin To Net: NetName=NetIC*_1 Pin=R7-1
+Added Pin To Net: NetName=NetIC*_1 Pin=SW1-2
+Added Net: Name=NetIC*_1
+Added Member To Class: ClassName=ESP8266 Member=Component R7 100K

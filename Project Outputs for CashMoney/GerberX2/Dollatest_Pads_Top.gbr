@@ -1,0 +1,19 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,18.1.6 (161)*%
+G04 Layer_Color=255*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,Pads,Top*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ComponentPad*%
+%ADD12C,0.055118*%
+%ADD13R,0.055118X0.055118*%
+D12*
+X4724000Y5875000D02*
+D03*
+D13*
+X4624000D02*
+D03*
+%TF.MD5,8a49c7acd85c23854a5e46ad17ae08af*%
+M02*

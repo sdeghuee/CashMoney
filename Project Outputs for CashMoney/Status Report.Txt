@@ -1,0 +1,36 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:58:42 PM On 10/9/2018
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [Dollatest.PcbDoc]
+   Generated File[Dollatest_Copper_Signal_Top.gbr]
+   Generated File[Dollatest_Copper_Signal_Bot.gbr]
+   Generated File[Dollatest_Pads_Bot.gbr]
+   Generated File[Dollatest_Pads_Top.gbr]
+   Generated File[Dollatest_Legend_Bot.gbr]
+   Generated File[Dollatest_Soldermask_Bot.gbr]
+   Generated File[Dollatest_Paste_Bot.gbr]
+   Generated File[Dollatest_Legend_Top.gbr]
+   Generated File[Dollatest_Paste_Top.gbr]
+   Generated File[Dollatest_Soldermask_Top.gbr]
+   Generated File[Dollatest_Keep-out.gbr]
+   Generated File[Dollatest_Mechanical_13.gbr]
+   Generated File[Dollatest_Mechanical_6.gbr]
+   Generated File[Dollatest_Mechanical_1.gbr]
+   Generated File[Dollatest_Mechanical_15.gbr]
+   Generated File[Dollatest_Profile.gbr]
+   Generated File[Dollatest_NPTH_Drill.gbr]
+   Generated File[Dollatest_PTH_Drill.gbr]
+   Generated File[Dollatest_Drawing_1.gbr]
+   Generated File[Dollatest_Drillmap_1.gbr]
+   Generated File[Dollatest.RUL]
+   Generated File[Dollatest.EXTREP]
+   Generated File[Dollatest.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 9:58:48 PM On 10/9/2018
